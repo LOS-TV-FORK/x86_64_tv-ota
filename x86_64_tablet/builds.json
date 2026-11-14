@@ -1,33 +1,17 @@
 [
   {
-    "datetime": 1794564175,
+    "datetime": 1794655172,
     "type": "unofficial",
     "version": "23.2",
     "files": [
       {
-        "filename": "lineage-23.2-20261113-UNOFFICIAL-x86_64_tv-AB.zip",
-        "url": "https://github.com/LOS-TV-FORK/x86_64_tv-ota/releases/download/v20261113/lineage-23.2-20261113-UNOFFICIAL-x86_64_tv-AB.zip",
-        "sha256": "1011518075db9731320d02d8e2c50892f3ef7eac810b4bfffd8414db46245d80",
-        "size": 1966458988,
+        "filename": "lineage-23.2-20261114-UNOFFICIAL-x86_64_tv-AB.zip",
+        "url": "https://github.com/LOS-TV-FORK/x86_64_tv-ota/releases/download/v20261114/lineage-23.2-20261114-UNOFFICIAL-x86_64_tv-AB.zip",
+        "sha256": "edd3d9c8861ae0bebcddc7019dd8f71e8fc60ebc6781ffeca065719abec04cc6",
+        "size": 2003227541,
         "os_patch_level": "2026-06-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:2541:158763,payload.bin:2541:1966453016,payload_properties.txt:1966455615:156,apex_info.pb:1428:1066,metadata:69:620,metadata.pb:757:623"
-      }
-    ]
-  },
-  {
-    "datetime": 1793301859,
-    "type": "unofficial",
-    "version": "23.2",
-    "files": [
-      {
-        "filename": "lineage-23.2-20261029-UNOFFICIAL-x86_64_tv-AB.zip",
-        "url": "https://github.com/LOS-TV-FORK/x86_64_tv-ota/releases/download/v20261029/lineage-23.2-20261029-UNOFFICIAL-x86_64_tv-AB.zip",
-        "sha256": "d6224b7fb3cbaad18754fb90e1dd08918c52910204c530ffee488638fec176c5",
-        "size": 1967525865,
-        "os_patch_level": "2026-06-01",
-        "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:2541:158762,payload.bin:2541:1967519893,payload_properties.txt:1967522492:156,apex_info.pb:1428:1066,metadata:69:620,metadata.pb:757:623"
+        "ota_property_files": "payload_metadata.bin:2541:158860,payload.bin:2541:2003221569,payload_properties.txt:2003224168:156,apex_info.pb:1428:1066,metadata:69:620,metadata.pb:757:623"
       }
     ]
   }
