@@ -1,17 +1,17 @@
 [
   {
-    "datetime": 1794655172,
+    "datetime": 1795165853,
     "type": "unofficial",
     "version": "23.2",
     "files": [
       {
-        "filename": "lineage-23.2-20261114-UNOFFICIAL-x86_64_tv-AB.zip",
-        "url": "https://github.com/LOS-TV-FORK/x86_64_tv-ota/releases/download/v20261114/lineage-23.2-20261114-UNOFFICIAL-x86_64_tv-AB.zip",
-        "sha256": "edd3d9c8861ae0bebcddc7019dd8f71e8fc60ebc6781ffeca065719abec04cc6",
-        "size": 2003227541,
+        "filename": "lineage-23.2-20261120-UNOFFICIAL-x86_64_tv-AB.zip",
+        "url": "https://github.com/LOS-TV-FORK/x86_64_tv-ota/releases/download/v20261120/lineage-23.2-20261120-UNOFFICIAL-x86_64_tv-AB.zip",
+        "sha256": "5581bb1b378d615716ac9816e4c2565284924a6f0db0f03977804b39b0f7b504",
+        "size": 1966193152,
         "os_patch_level": "2026-06-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:2541:158860,payload.bin:2541:2003221569,payload_properties.txt:2003224168:156,apex_info.pb:1428:1066,metadata:69:620,metadata.pb:757:623"
+        "ota_property_files": "payload_metadata.bin:2541:158759,payload.bin:2541:1966187180,payload_properties.txt:1966189779:156,apex_info.pb:1428:1066,metadata:69:620,metadata.pb:757:623"
       }
     ]
   }
